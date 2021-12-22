@@ -2,11 +2,11 @@
 
 
 # götür
-Techcareer.net iOS Bootcamp'i bitirme projesi, getir'den büyük miktarda ilham almıştır.
+Techcareer.net iOS Bootcamp'i bitirme projesi, Getir'den büyük miktarda ilham almıştır.
 
 ## Açıklama
 
-Techcareer.net iOS Bootcamp'i bitirme projesi için bize 4 tane api verildi ve bizden bir yemek sipariş uygulaması yapmamız istendi. Ben de profesyonel bir iş olduğunu düşündüğüm için getir'in bir benzerini yapmak istedim. Uygulama API'lar el verdikçe çalışıyor yerelde veri tutmuyorum. VIPER mimarisi ile yazıldı. Tam zamanlı olarak çalıştığım için akşamları projeye vakit ayırabildim bu yüzden eksikler olabilir, varsa affola.
+Techcareer.net iOS Bootcamp'i bitirme projesi için bize 4 tane api verildi ve bizden bir yemek sipariş uygulaması yapmamız istendi. Ben de profesyonel bir iş olduğunu düşündüğüm için Getir'in bir benzerini yapmak istedim. Uygulama API'lar el verdikçe çalışıyor yerelde veri tutmuyorum. VIPER mimarisi ile yazıldı. Tam zamanlı olarak çalıştığım için akşamları projeye vakit ayırabildim bu yüzden eksikler olabilir, varsa affola.
 
 
 ## Başlarken
@@ -33,7 +33,7 @@ iPhone 8 Plus:
 
 
 ## Teşekkürler
-[getir](https://getir.com)
+[Getir](https://getir.com)
 
 ## Lisans
 [MIT](https://github.com/kemalsanli/gotur/blob/main/LICENSE)
