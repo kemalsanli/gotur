@@ -2,7 +2,7 @@
 
 
 # götür
-Techcareer.net iOS Bootcamp'i bitirme projesi, Getir'den büyük miktarda ilham almıştır.
+Techcareer.net iOS Bootcamp'i bitirme projesi, Getir'den yüksek miktarda ilham almıştır.
 
 ## Açıklama
 
