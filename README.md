@@ -15,13 +15,6 @@ Techcareer.net iOS Bootcamp'i bitirme projesi için bize 4 tane api verildi ve b
 
 * Xcode 13 veya üzeri
 
-## Yardım
-
-Henüz herhangi bir sorunla karşılaşmadık.
-```
-...ama siz yine de sorun yaşarsanız bi kapatıp açın
-```
-
 ## Arayüz
 
 
@@ -38,13 +31,6 @@ iPhone 8 Plus:
 ![8plus](https://user-images.githubusercontent.com/22424289/147138456-4c9e9b63-ad85-499f-9236-11a3013eb864.gif)
 
 
-## Sürüm Geçmişi
-
-* 1.0
-    * Yayınlandı.
-
-## Katılım
-Pull Requestlere her zaman açığız.
 
 ## Teşekkürler
 [getir](https://getir.com)
